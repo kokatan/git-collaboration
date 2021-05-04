@@ -1,0 +1,5 @@
+Hello My name is Ko, I am from Japan. 
+I love watching movies and listening to the music.
+
+My project Idea is to create a web application that allows
+user to share the cooking recipes from all around the world.
